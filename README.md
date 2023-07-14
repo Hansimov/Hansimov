@@ -6,9 +6,17 @@
 <!-- [![Hansimov's github stats](https://github-readme-stats.vercel.app/api?username=Hansimov&show_icons=true&theme=chartreuse-dark)](https://github.com/Hansimov) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hansimov&langs_count=10&hide=HTML,TeX,JavaScript,Jupyter%20Notebook,makefile)](https://github.com/Hansimov) -->
 
-## Most visited Gists
 
-See all: https://gist.github.com/Hansimov
+<details>
+
+<Summary>
+  
+## Most visited notes
+Gists: https://gist.github.com/Hansimov <br>
+Older notes: https://hansimov.github.io (2017/04/23 - 2021/07/26)
+
+</Summary> 
+
 
 ### Techniques and workflows
 * [Use multiple GitHub accounts on same machine](https://gist.github.com/Hansimov/a68809441cbd16290bdf98a9b5004fdb)
@@ -34,3 +42,5 @@ See all: https://gist.github.com/Hansimov
 * [Break the input character limits of Bing Chat](https://gist.github.com/Hansimov/80dbf424fb6df6834dad1b944739b4ef)
 * [Pip install local wheels](https://gist.github.com/Hansimov/a9763c1f1ea76fd014e1164f0e6a8917)
 * [Python run shell command and output to console](https://gist.github.com/Hansimov/b2f9542b43703219e3f431b85e805a5b)
+
+</details>
