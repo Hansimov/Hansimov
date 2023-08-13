@@ -21,6 +21,7 @@ Older notes: https://hansimov.github.io (2017/04/23 - 2021/07/26)
 ### Techniques and workflows
 * [Use multiple GitHub accounts on same machine](https://gist.github.com/Hansimov/a68809441cbd16290bdf98a9b5004fdb)
 * [Use FRP proxy to forward network traffic](https://gist.github.com/Hansimov/2c7f5b161c5d00ecdd29597dd17333f2)
+* [Install PyTorch with CUDA enabled](https://gist.github.com/Hansimov/c2c82c9512245758398bc8b48c2789c0)
 * [Install miniconda in Ubuntu without sudo acsess](https://gist.github.com/Hansimov/2d5d5985116039a0f2976dec91e8ed14)
 * [Install Python latest version in Linux without sudo access](https://gist.github.com/Hansimov/a3887ac0a2ed9edf609331e650effde0)
 * [Python pip install timeout issue](https://gist.github.com/Hansimov/39bce1628ff883e89edbc8fa0377d1ee)
@@ -39,6 +40,7 @@ Older notes: https://hansimov.github.io (2017/04/23 - 2021/07/26)
 
 ### Scripts
 * [A template for customized Argument Parser in Python](https://gist.github.com/Hansimov/5ab26b3430dbdb6e411918361d819fd9)
+* [Speech to Text with Whisper from OpenAI with Python](https://gist.github.com/Hansimov/07207ffce714614ac0fff5846b82a157)
 * [Break the input character limits of Bing Chat](https://gist.github.com/Hansimov/80dbf424fb6df6834dad1b944739b4ef)
 * [Pip install local wheels](https://gist.github.com/Hansimov/a9763c1f1ea76fd014e1164f0e6a8917)
 * [Python run shell command and output to console](https://gist.github.com/Hansimov/b2f9542b43703219e3f431b85e805a5b)
