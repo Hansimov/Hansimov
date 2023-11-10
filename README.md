@@ -30,6 +30,8 @@ Older notes: https://hansimov.github.io (2017/04/23 - 2021/07/26)
 * [Remote-SSH server issues](https://gist.github.com/Hansimov/bae4df07f1abcb7e8086c43eec83e085)
 * [Collection of useful git commands in daily work](https://gist.github.com/Hansimov/23bb639911d474c7ab5b93d32bcbd99d)
 * [Run Stable Diffusion webui in Ubuntu server](https://gist.github.com/Hansimov/b82a00ec9800d91cde29975866d4a156)
+* [Separate subfolder in current Git repo to a new repo](https://gist.github.com/Hansimov/60bd27343ff7484fbb3a8d7fa28fbfef)
+* [Sync Github repo to Huggingface space](https://gist.github.com/Hansimov/6002fddd5f7a49c210ed1b3757acb271)
 
 ### Configs and settings
 * [Tmux configs](https://gist.github.com/Hansimov/55f92e1f75923fee178d8a5e49e40143)
@@ -44,5 +46,7 @@ Older notes: https://hansimov.github.io (2017/04/23 - 2021/07/26)
 * [Break the input character limits of Bing Chat](https://gist.github.com/Hansimov/80dbf424fb6df6834dad1b944739b4ef)
 * [Pip install local wheels](https://gist.github.com/Hansimov/a9763c1f1ea76fd014e1164f0e6a8917)
 * [Python run shell command and output to console](https://gist.github.com/Hansimov/b2f9542b43703219e3f431b85e805a5b)
+* [Useful Linux commands](https://gist.github.com/Hansimov/cab44ae4bc3a6d3c9b5447d258fbbd07)
+* [Useful git commands](https://gist.github.com/Hansimov/23bb639911d474c7ab5b93d32bcbd99d)
 
 </details>
