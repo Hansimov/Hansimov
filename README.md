@@ -32,6 +32,7 @@ Older notes: https://hansimov.github.io (2017/04/23 - 2021/07/26)
 * [Run Stable Diffusion webui in Ubuntu server](https://gist.github.com/Hansimov/b82a00ec9800d91cde29975866d4a156)
 * [Separate subfolder in current Git repo to a new repo](https://gist.github.com/Hansimov/60bd27343ff7484fbb3a8d7fa28fbfef)
 * [Sync Github repo to Huggingface space](https://gist.github.com/Hansimov/6002fddd5f7a49c210ed1b3757acb271)
+* [Install and setup docker](https://gist.github.com/Hansimov/412eb8bd6d7af3c9e96afad9811cd755)
 
 ### Configs and settings
 * [Tmux configs](https://gist.github.com/Hansimov/55f92e1f75923fee178d8a5e49e40143)
