@@ -43,6 +43,7 @@ Older notes: https://hansimov.github.io (2017/04/23 - 2021/07/26)
 
 ### Scripts
 * [A template for customized Argument Parser in Python](https://gist.github.com/Hansimov/5ab26b3430dbdb6e411918361d819fd9)
+* [A template for customized logger in Python](https://gist.github.com/Hansimov/649ad175156e59fc0cb598a5ff6b5c49)
 * [Speech to Text with Whisper from OpenAI with Python](https://gist.github.com/Hansimov/07207ffce714614ac0fff5846b82a157)
 * [Break the input character limits of Bing Chat](https://gist.github.com/Hansimov/80dbf424fb6df6834dad1b944739b4ef)
 * [Pip install local wheels](https://gist.github.com/Hansimov/a9763c1f1ea76fd014e1164f0e6a8917)
