@@ -6,16 +6,14 @@
 <!-- [![Hansimov's github stats](https://github-readme-stats.vercel.app/api?username=Hansimov&show_icons=true&theme=chartreuse-dark)](https://github.com/Hansimov) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hansimov&langs_count=10&hide=HTML,TeX,JavaScript,Jupyter%20Notebook,makefile)](https://github.com/Hansimov) -->
 
-
 <details>
+<summary>
 
-<Summary>
-  
 ## Most visited notes
 Gists: https://gist.github.com/Hansimov <br>
 Older notes: https://hansimov.github.io (2017/04/23 - 2021/07/26)
 
-</Summary> 
+</summary> 
 
 
 ### Techniques and workflows
@@ -50,5 +48,19 @@ Older notes: https://hansimov.github.io (2017/04/23 - 2021/07/26)
 * [Python run shell command and output to console](https://gist.github.com/Hansimov/b2f9542b43703219e3f431b85e805a5b)
 * [Useful Linux commands](https://gist.github.com/Hansimov/cab44ae4bc3a6d3c9b5447d258fbbd07)
 * [Useful git commands](https://gist.github.com/Hansimov/23bb639911d474c7ab5b93d32bcbd99d)
+
+</details>
+
+<details>
+<summary>
+  
+## About me
+</summary>
+
+| Year           | Place | Role                   |
+|----------------|-------|------------------------|
+| 2014 - 2018    | SJTU  | Bachelor               |
+| 2018 - 2021    | SJTU  | Master                 |
+| 2021 - Present | Intel | Software & AI Engineer |
 
 </details>
