@@ -6,15 +6,11 @@
 <!-- [![Hansimov's github stats](https://github-readme-stats.vercel.app/api?username=Hansimov&show_icons=true&theme=chartreuse-dark)](https://github.com/Hansimov) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hansimov&langs_count=10&hide=HTML,TeX,JavaScript,Jupyter%20Notebook,makefile)](https://github.com/Hansimov) -->
 
+Blog: https://hansimov.github.io/blog
+
 <details>
-<summary>
-
-## Most visited notes
-Gists: https://gist.github.com/Hansimov <br>
-Older notes: https://hansimov.github.io (2017/04/23 - 2021/07/26)
-
-</summary> 
-
+<summary> Most visited gist notes</summary>
+Gists: https://gist.github.com/Hansimov
 
 ### Techniques and workflows
 * [Use multiple GitHub accounts on same machine](https://gist.github.com/Hansimov/a68809441cbd16290bdf98a9b5004fdb)
@@ -52,10 +48,7 @@ Older notes: https://hansimov.github.io (2017/04/23 - 2021/07/26)
 </details>
 
 <details>
-<summary>
-  
-## About me
-</summary>
+<summary> About me </summary>
 
 | Year           | Place | Role                   |
 |----------------|-------|------------------------|
